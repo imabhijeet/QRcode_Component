@@ -25,8 +25,7 @@ Create a Responsive QR code component
 ![](./screenshot.jpg)
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Preview live site](https://imabhijeet.github.io/QRcode_Component/)
 
 ## My process
 
@@ -36,8 +35,6 @@ Create a Responsive QR code component
 - Flexbox
 - CSS Grid and media queries
 - Desktop-first workflow
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
