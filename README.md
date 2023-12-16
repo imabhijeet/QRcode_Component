@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 Create a Responsive QR code component
 
 ### Screenshot
-![](./screenshot.jpg)
+![](images/preview.png)
 
 ### Links
 - Live Site URL: [Preview live site](https://imabhijeet.github.io/QRcode_Component/)
