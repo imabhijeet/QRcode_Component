@@ -1,0 +1,61 @@
+
+* {
+    font-family: Rubik;
+    font-size: 15px;
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    max-width: 1440px;
+    height: auto;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.container {
+    background-color: hsl(0, 0%, 100%);
+    max-width: 250px;
+    max-height: 450px;
+    width: 50%;
+    height: auto;
+    text-align: center;
+    padding: 1rem;
+    display: grid;
+    border-radius: 5%;
+    border: 1px solid hsl(212, 56%, 86%);
+    box-shadow: 1px 1px 10px 5px hsl(219, 27%, 73%);
+}
+
+.container:hover {
+    box-shadow: 1px 1px 10px 5px hsl(220, 15%, 55%);
+    cursor: grab;
+}
+
+.container img {
+    width: 100%;
+    height: auto;
+    border-radius: 5%;
+}
+
+.primary-text {
+    font-size: 1.4rem;
+    font-weight: 700;
+    margin: 10px 5px;
+    color: hsl(218, 44%, 22%);
+}
+
+.secondary-text {
+    font-size: 1rem;
+    margin: 2px 1px;
+    color: hsl(220, 15%, 55%);
+}
+
+@media screen and (max-width: 425px){
+    .container {
+        width: 300px;
+        height: 450px;
+    }
+}
